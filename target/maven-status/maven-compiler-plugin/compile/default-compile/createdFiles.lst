@@ -1,0 +1,4 @@
+com/bfhl/webhookapp/WebhookAppApplication.class
+com/bfhl/webhookapp/model/GenerateWebhookRequest.class
+com/bfhl/webhookapp/model/GenerateWebhookResponse.class
+com/bfhl/webhookapp/service/WebhookService.class
